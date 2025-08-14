@@ -9,3 +9,6 @@ ${\textsf{\color{#D4B426} Draw something in my }}$ <a href="https://soldiers-gra
 
 <p align="center">
 ${\textsf{\color{#56E6AC} ──────✧⁀⁺₊ ⟡ ⁺₊⁀✧────── }}$
+
+
+![:Allies:](https://komarev.com/ghpvc/?username=GUILLOTINE-BL3SS1NG&color=ffcc33&label=Allies)
