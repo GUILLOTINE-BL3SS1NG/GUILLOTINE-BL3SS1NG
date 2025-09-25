@@ -35,4 +35,8 @@ ${\textsf{\color{#D4B426} Draw something in my Strawpage if you wish to. }}$
 ${\textsf{\color{#56E6AC} ─────✦ . 　⁺ 　 . ✧ . 　⁺ 　 . ✦───── }}$
 
 <p align="center">
+<img src="https://github.com/user-attachments/assets/99612f8e-04a0-48b8-97ee-76202878f753" > <img src="https://github.com/user-attachments/assets/08d40231-d277-49a7-9980-06808a228ac3" >
+
+
+<p align="center">
 <img src="https://github.com/user-attachments/assets/e514bf2f-f3dc-4743-8aca-bd9361bef0cd" width=2500>
